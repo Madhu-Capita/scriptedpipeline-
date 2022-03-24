@@ -13,7 +13,7 @@ pipeline {
 		}
 		stage('Three') {
 			steps {
-				echo "Running STAGE Three"
+				echo "Running Last Three"
 			}
 		}
 		
