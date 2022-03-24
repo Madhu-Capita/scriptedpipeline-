@@ -16,10 +16,6 @@ pipeline {
 				echo "Running Stage Three"
 			}
 		}
-		stage('Four') {       
-			steps {
-			echo "Running another test job"
-			}        
-		}
+		
 	}
 }
